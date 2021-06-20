@@ -72,7 +72,7 @@ export default function RegisterPage() {
             />
           </div>
 
-          <input type="submit" value="register" className="btn" />
+          <input type="submit" value="Register" className="btn" />
         </form>
 
         <p>
